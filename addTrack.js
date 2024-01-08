@@ -2,7 +2,7 @@ import TrackPlayer from 'react-native-track-player';
 
 export async function addTracks() {
   try {
-    const response = await fetch('https://raw.githubusercontent.com/joseph23pronton/loveliveradio_api/main/serverList.json');
+    const response = await fetch('https://raw.githubusercontent.com/joseph23pronton/ganbaruby23musicplayer/main/serverList.json');
   
     if (!response.ok) {
       throw new Error('Failed to fetch playlist');
