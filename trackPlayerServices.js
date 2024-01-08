@@ -40,18 +40,6 @@ import TrackPlayer, {
     }
   }
   
-  export async function addTracks() {
-    await TrackPlayer.add([
-      {
-        id: '1',
-        url: require('./assets/lonely-together.mp3'),
-        title: 'Starlight Museum',
-        artist: 'Inori Minase',
-        duration: 60,
-      }
-    ]);
-    await TrackPlayer.setRepeatMode(RepeatMode.Queue);
-  }
   
   export async function playbackService() {
     // TODO: Attach remote event handlers
