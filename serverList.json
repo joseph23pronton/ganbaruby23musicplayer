@@ -1,26 +1,26 @@
 [
     {
       "id": "1",
-      "url": "https://example.com/lonely-together.mp3",
-      "title": "Lonely Together",
-      "artist": "Avicii Ft. Alan Walker",
-      "artwork": "https://i1.sndcdn.com/artworks-frJ4KcRxIROc-0-t500x500.jpg",
+      "url": "https://static.wikia.nocookie.net/love-live/images/9/96/WATER_BLUE_NEW_WORLD.ogg/revision/latest?cb=20180116151616",
+      "title": "WATER BLUE NEW WORLD",
+      "artist": "Aqours",
+      "artwork": "https://static.wikia.nocookie.net/love-live/images/1/11/WATER_BLUE_NEW_WORLD_Cover.jpg/revision/latest/scale-to-width-down/1000?cb=20180110092819",
       "duration": 60
     },
     {
       "id": "2",
-      "url": "https://example.com/Cake-By-The-Ocean.mp3",
-      "title": "Cake By The Ocean",
-      "artist": "DNCE",
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/8/8c/DNCE_-_Cake_by_the_Ocean.png",
+      "url": "https://static.wikia.nocookie.net/love-live/images/2/25/Bokutachi_wa_Hitotsu_no_Hikari.ogg/revision/latest?cb=20150711132419",
+      "title": "Bokutachi wa Hitotsu no Hikari",
+      "artist": "μ’s",
+      "artwork": "https://static.wikia.nocookie.net/love-live/images/7/7e/Bokutachi_wa_Hitotsu_no_Hikari_%26_Future_style.jpg/revision/latest?cb=20160731141809",
       "duration": 66
     },
       {
         "id": "3",
-        "url": "./assets/Burn-Out.mp3",
-        "title": "Burn Out",
-        "artwork": "https://upload.wikimedia.org/wikipedia/en/c/c4/Burn_out_garrix_mylo.jpg",
-        "artist": "Martin Garrix",
+        "url": "https://static.wikia.nocookie.net/love-live/images/5/5f/Next_SPARKLING%21%21.ogg/revision/latest?cb=20190124155634",
+        "title": "Next SPARKLING!!",
+        "artwork": "https://static.wikia.nocookie.net/love-live/images/d/de/Bokura_no_Hashittekita_Michi_wa%E2%80%A6%EF%BC%8FNext_SPARKLING%21%21_Cover.png/revision/latest/scale-to-width-down/1000?cb=20211216194733",
+        "artist": "Aqours",
         "duration": 73
       },
       {
@@ -33,10 +33,10 @@
       },
       {
         "id": "5",
-        "url": "https://sample-music.netlify.app/death%20bed.mp3",
-        "title": "Make a cup of coffe",
-        "artwork": "https://i1.sndcdn.com/artworks-frJ4KcRxIROc-0-t500x500.jpg",
-        "artist": "Powfu",
+        "url": "https://static.wikia.nocookie.net/love-live/images/2/25/Bokura_no_Hashiketta_Michi_wa....ogg/revision/latest?cb=20190124154707",
+        "title": "Bokura no Hashittekita Michi wa…",
+        "artwork": "https://static.wikia.nocookie.net/love-live/images/d/de/Bokura_no_Hashittekita_Michi_wa%E2%80%A6%EF%BC%8FNext_SPARKLING%21%21_Cover.png/revision/latest/scale-to-width-down/1000?cb=20211216194733",
+        "artist": "Aqours",
         "duration": 40
       }
   ]
